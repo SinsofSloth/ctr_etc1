@@ -6,7 +6,7 @@ edition = "2018"
 readme = "README.md"
 repository = "https://github.com/SinsofSloth/ctr_etc1"
 homepage = "https://github.com/SinsofSloth/ctr_etc1"
-license = "LICENSE"
+license = "MIT"
 description = "Nintendo ETC1 compression binding for rust"
 
 
